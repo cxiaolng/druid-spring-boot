@@ -5,7 +5,7 @@
 
 进入工程根目录druid-spring-boot/
 
-mvn clean install
+	mvn clean install
 
 在项目pom内引入
 
@@ -18,7 +18,7 @@ mvn clean install
   
   配置工程数据源类型
   
-  spring.datasource.type=com.alibaba.druid.pool.DruidDataSource
+	spring.datasource.type=com.alibaba.druid.pool.DruidDataSource
   
   好了就是这么简单
 
