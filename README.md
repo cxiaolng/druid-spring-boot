@@ -13,7 +13,7 @@ mvn clean install
 	<dependency>
 		<groupId>com.github.druid</groupId>
 		<artifactId>druid-spring-boot-starter</artifactId>
-    		<version>1.0.0-SNAPSHOT</version>
+		<version>1.0.0-SNAPSHOT</version>
 	</dependency>
   
   配置工程数据源类型
