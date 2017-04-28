@@ -21,3 +21,5 @@ mvn clean install
   spring.datasource.type=com.alibaba.druid.pool.DruidDataSource
   
   好了就是这么简单
+
+##### 想创建自己的autoconfigure，请看[官方文档](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-auto-configuration.html#boot-features-custom-starter)
